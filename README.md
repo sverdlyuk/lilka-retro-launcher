@@ -1,6 +1,7 @@
 # Retro Launcher
 
 Меню для запуску ретро-ігор на Лілці через ядра retro-go.
+
 <img width="280" height="240" alt="retro-launcher-menu-280" src="https://github.com/user-attachments/assets/d62e77f6-1af9-4d82-9234-c8340e374c29" />
 
 
